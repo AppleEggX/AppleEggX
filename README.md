@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AppleEggX
-- 👀 I’m interested in Python, C#, C++, Java
+- 👀 I’m interested in Python, C#, Java
 - 🌱 I’m currently learning EVERYTHING
 - 📫 How to reach me NOWAY
 
